@@ -1,0 +1,47 @@
+{
+   "open_Url": {
+        "label" :"Vtiger_Url",
+         "url"  :"http://localhost:8888/",
+         "id"   :"0001"
+    },
+
+
+   "valid_Login": {
+        "label":" right credentials",
+        "username":"admin",
+        "password":"admin",
+        "status":"valid"
+
+    },
+    "inVlid_Login":{
+        "label":" wrong username",
+        "username":"rahul",
+        "password":"yadav1707",
+        "status":"invalid"
+
+
+    },
+   "InValid_Password": {
+        "label":" wrong password",
+        "username":"admin",
+        "password":"abcdef",
+        "status":"invalid"
+
+    },
+   "Impati_UserName": {
+        "label":" blank username",
+        "username":"",
+        "password":"yadav1707",
+        "status":"invalid"
+
+    },
+    "Impati_Password":{
+        "label":" blank password",
+        "username":"admin",
+        "password":"",
+        "status":"invalid"
+
+    }
+}  
+
+
