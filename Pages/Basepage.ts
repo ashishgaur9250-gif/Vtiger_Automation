@@ -25,7 +25,7 @@ export class BasePage{
    async fill(element:Locator,value:string){
     await element.fill(value);
    }
-   
+     
    
 
 
