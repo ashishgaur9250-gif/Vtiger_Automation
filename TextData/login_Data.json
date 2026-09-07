@@ -13,13 +13,18 @@
         "status":"valid"
 
     },
+   "lead": {
+        "firstName":"Cucumber",
+        "lastName":"Playwright",
+        "company":"Vtiger Automation",
+        "phone":"9876543210",
+        "email":"cucumber.playwright@example.com"
+    },
     "inVlid_Login":{
         "label":" wrong username",
         "username":"rahul",
         "password":"yadav1707",
         "status":"invalid"
-
-
     },
    "InValid_Password": {
         "label":" wrong password",
